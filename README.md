@@ -13,8 +13,7 @@ Vamos criar um **e-commerce** para a *empresa X e blablabla*.
 
 ## Melhorias do Projeto:
 1. Melhoria 1
-  1. melhoria 1.1
-  2. melhoria 1.2
- 
+    1. melhoria 1.1
+    2. melhoria 1.2 
 2. Melhoria 2
 3. melhoria 3
