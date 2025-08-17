@@ -25,3 +25,11 @@ Vamos criar um **e-commerce** para a *empresa X e blablabla*.
 [Google](https://www.google.com/?hl=pt_BR)
 
 [X](https://twitter.com/)
+
+## Código da função soma
+
+```javascript 
+function soma(a, b) {
+    return a + b;
+}
+```
