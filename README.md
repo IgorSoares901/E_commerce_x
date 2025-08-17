@@ -20,3 +20,7 @@ Vamos criar um **e-commerce** para a *empresa X e blablabla*.
 
 ### Imagem do King Boo
 ![King Boo mostrando sua língua](img/Kingbooluigismansion3.webp)
+
+### Links interessantes:
+[Google](https://www.google.com/?hl=pt_BR)
+[X](https://twitter.com/)
