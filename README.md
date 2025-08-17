@@ -1,4 +1,7 @@
-# E_commerce_x
-Um site de e commerce da empresa X.
+# E-Commerce Empresa X
 
-# Teste
+Vamos criar um e-commerce para a empresa X e blablabla.
+
+## Funcionalidades:
+
+Checkout, Home com banner, Tela de produto, Catálogo.
