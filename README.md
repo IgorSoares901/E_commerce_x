@@ -37,4 +37,4 @@ function soma(a, b) {
 ## lista de tarefas a fazer
 
 - [x] Área de membros
-- [] Integração com outros pagamentos
+- [ ] Integração com outros pagamentos
