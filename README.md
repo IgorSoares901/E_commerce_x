@@ -17,3 +17,6 @@ Vamos criar um **e-commerce** para a *empresa X e blablabla*.
     2. melhoria 1.2 
 2. Melhoria 2
 3. melhoria 3
+
+### Imagem do King Boo
+![King Boo mostrando sua língua](img/Kingbooluigismansion3.webp)
