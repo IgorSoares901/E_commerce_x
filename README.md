@@ -12,6 +12,6 @@ Vamos criar um **e-commerce** para a *empresa X e blablabla*.
 * JavaScript 3;
 
 ## Melhorias do Projeto:
-1.Melhoria 1;
-2.Melhoria 2;
-3.melhoria 3;
+1. Melhoria 1;
+2. Melhoria 2;
+3. melhoria 3;
